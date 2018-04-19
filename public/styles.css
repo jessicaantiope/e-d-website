@@ -1,0 +1,28 @@
+@import './bootstrap-custom/bootstrap';
+
+body {
+  background-color: 'light blue';
+  font-family: 'arial';
+}
+
+.headerImage{
+  width: 100% !important;
+  margin-bottom: 20px;
+  max-height: 50%;
+}
+
+.backgroundForm {
+  background-color: rgba(214, 221, 217, 0.897);
+}
+
+a:hover{
+  text-decoration: none !important;
+  color:  blue !important;
+}
+
+.navBar {
+  font-family: 'arial';
+  font-size: 20px;
+}
+
+
